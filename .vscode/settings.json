@@ -1,0 +1,15 @@
+{
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 1000,
+      "driver": "SQLite",
+      "name": "Superstore",
+      "database": "${workspaceFolder:Superstore-SQL-Analysis}/superstore.db"
+    }
+  ],
+  "[sql]": {
+    "editor.defaultFormatter": "adpyke.vscode-sql-formatter",
+    "editor.formatOnSave": true
+  }
+}

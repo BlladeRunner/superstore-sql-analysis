@@ -1,0 +1,6 @@
+superstore.db
+*.csv
+*.db
+.vscode/*
+!/.vscode/settings.json
+.DS_Store
