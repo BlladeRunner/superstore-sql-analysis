@@ -29,6 +29,7 @@ sqlite3 superstore.db ".read setup_superstore.sql"
 
 # 2️⃣ Run analysis queries (e.g. queries.sql)
 # Inside VS Code with SQLTools: open queries.sql → select a statement → Ctrl+E, Ctrl+E
+```
 
 🧮 Analysis Highlights
 The analysis includes:
@@ -50,7 +51,5 @@ This analysis can help retail and e-commerce managers:
 Identify the most profitable customer segments and regions.
 Optimize discount strategies to avoid margin erosion.
 Focus marketing campaigns on high-value customers.
-
-```
 
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
