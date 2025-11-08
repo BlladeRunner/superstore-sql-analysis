@@ -7,7 +7,7 @@ The goal is to explore and analyze key business questions such as:
 - Which regions and categories perform best?
 - How do discounts impact profit margins?
 
-The project demonstrates SQL proficiency, business analysis, and data storytelling through queries.
+The project demonstrates proficiency in SQL, business analysis, and data storytelling through queries.
 
 ---
 
@@ -50,5 +50,7 @@ This analysis can help retail and e-commerce managers:
 Identify the most profitable customer segments and regions.
 Optimize discount strategies to avoid margin erosion.
 Focus marketing campaigns on high-value customers.
+
+```
 
 🔙 [Back to Portfolio](https://github.com/BlladeRunner)
