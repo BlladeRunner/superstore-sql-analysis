@@ -46,7 +46,7 @@ The analysis includes:
 🔹 Regions West and East outperform others in both revenue and profit.
 🔹 Discounts above 30% consistently destroy profit margins.
 
-💼 Business Relevance
+💼 Business Relevance - 
 This analysis can help retail and e-commerce managers:
 Identify the most profitable customer segments and regions.
 Optimize discount strategies to avoid margin erosion.
