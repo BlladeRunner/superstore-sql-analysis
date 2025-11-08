@@ -31,7 +31,7 @@ sqlite3 superstore.db ".read setup_superstore.sql"
 # Inside VS Code with SQLTools: open queries.sql → select a statement → Ctrl+E, Ctrl+E
 ```
 
-🧮 Analysis Highlights
+## 🧮 Analysis Highlights
 The analysis includes:
 🏆 Top-10 customers by total profit and sales volume.
 💰 AOV by category (Average Order Value).
@@ -39,14 +39,14 @@ The analysis includes:
 📉 Impact of discounts on margins and profit.
 🧩 ABC classification and profitability cohorts.
 
-🧠 Key Insights
+## 🧠 Key Insights
 🔹 The Consumer segment accounts for ~50% of total sales but lower profit margins.
 🔹 The Corporate segment is the most profitable overall.
 🔹 Furniture category has the lowest profit-to-sales ratio due to high shipping costs.
 🔹 Regions West and East outperform others in both revenue and profit.
 🔹 Discounts above 30% consistently destroy profit margins.
 
-💼 Business Relevance - 
+## 💼 Business Relevance - 
 This analysis can help retail and e-commerce managers:
 Identify the most profitable customer segments and regions.
 Optimize discount strategies to avoid margin erosion.
